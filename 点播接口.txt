@@ -1,7 +1,7 @@
 {
 "urls": [
-  
-{"name": "🦉果果", "url": "clan://localhost/tvbox/ouge.json"},
+
+{"name": "🦉果果", "url": "https://raw.githubusercontent.com/XiaoBin5566/tvbox/refs/heads/main/ouge.json"},
 {"name": "🦉欧歌线路", "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌" },
 {"name": "🐸教育", "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/api.json" },
 {"name": "🐸少儿频道", "url": "https://qixing.myhkw.com/qxzj/七星智教" },
