@@ -9,6 +9,7 @@
 {"name": "🐸少儿专线", "url": "http://530.my3v.work/tvbox/微风教育/微风教育.json" },
 {"name": "🐸央视专线", "url": "http://530.my3v.work/520zg.json" },
 {"name": "🍀天微影线", "url": "http://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json" },
+{"name": "宝盒线路", "url": "http://mzjk.top/禁止贩卖" },
 {"name": "🐸柚子4k接口", "url": "http://hucongrong.web3v.work/风水/柚子/柚子.json" },
 {"name": "🍀潇洒哥接口", "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" },
 {"name": "🍀肥猫接口", "url": "http://肥猫.com/" },
@@ -46,7 +47,7 @@
 {"name": "聚合源库", "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fxz/main/yyfx.json" },
 {"name": "🍀动漫主接口", "url": "https://www.yingm.cc/dm/dm.json" },
 {"name": "盒子迷接口", "url": "https://盒子迷.top/禁止贩卖" },
-{"name": "宝盒线路", "url": "http://mzjk.top/禁止贩卖" },
+
 {"name": "王二小线", "url": "http://tvbox.王二小放牛娃.top" },
 {"name": "小米线路", "url": "http://www.mpanso.com/小米/DEMO.json" },
 {"name": "七星影仓", "url": "https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json" },
